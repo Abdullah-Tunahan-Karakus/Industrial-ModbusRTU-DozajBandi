@@ -1,4 +1,4 @@
-# 🏭 Endüstriyel Dozaj Bant Kantarı SCADA Sistemi
+#  Endüstriyel Dozaj Bant Kantarı SCADA Sistemi
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -11,7 +11,7 @@ Bu proje, bir endüstriyel tesisin sahadaki cihazlarını gerçek zamanlı olara
 
 ---
 
-## 🚀 Temel Özellikler
+##  Temel Özellikler
 
 * **Gerçek Zamanlı Asenkron Okuma (Polling):** Arayüzü dondurmadan arka planda çalışan Task-tabanlı döngü ile cihazdan 150 ms'de bir veri çekilir ve UI güncellenir.
 * **Evrensel Ölçekleme (Dynamic Scaling):** Cihazın gönderdiği ham tamsayı verileri (örn: `125`), cihazdan okunan "Noktanın Yeri" parametresine göre dinamik olarak ondalıklı değerlere (örn: `12.5`) çevrilerek gösterilir ve cihaza yazılırken tekrar tamsayıya encode edilir.
@@ -22,7 +22,7 @@ Bu proje, bir endüstriyel tesisin sahadaki cihazlarını gerçek zamanlı olara
 
 ---
 
-## 🏗️ Sistem Mimarisi ve Kullanılan Teknolojiler
+##  Sistem Mimarisi ve Kullanılan Teknolojiler
 
 * **Geliştirme Ortamı:** Visual Studio 2022
 * **Programlama Dili:** C# (.NET)
@@ -32,7 +32,7 @@ Bu proje, bir endüstriyel tesisin sahadaki cihazlarını gerçek zamanlı olara
 
 ---
 
-## 📸 Ekran Görüntüleri
+##  Ekran Görüntüleri
 WPF Ekran Son Hali
 
 | İzleme Ekranı | Alarmlar |
@@ -40,7 +40,7 @@ WPF Ekran Son Hali
 | <img width="1920" height="1032" alt="Ekrannnnnnnnn" src="https://github.com/user-attachments/assets/8d9130e0-7971-4815-944d-52790d834b7c" /> | <img width="1036" height="643" alt="Alarm ekrannn" src="https://github.com/user-attachments/assets/836a99b4-3e2b-455e-b8f4-a93e3c7f7b3e" /> |
 
 ---
-## 📸 Ekran Görüntüleri
+##  Ekran Görüntüleri
 Form Ekranı İlk Çalışma
 
 | İzleme Ekranı | Alarmlar |
@@ -49,7 +49,7 @@ Form Ekranı İlk Çalışma
 
 ---
 
-## 💻 Kurulum ve Kullanım
+##  Kurulum ve Kullanım
 
 ### Gereksinimler
 * Windows İşletim Sistemi (Windows 10/11)
